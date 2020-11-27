@@ -1,13 +1,13 @@
 ### Hi there, I'm Gaurav Sobti 👋
-
-[![Twitter Follow]](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<br />
+<br />
 
 ## I'm a Developer, and Teacher!!
 
-- 🌱 I’m currently trying to master frontend development especially React 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🌱 I’m currently trying to master frontend development especially React
+- 🤝 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Build a better online presence, so that my work speaks for myself. Also, maybe learn to surf a little
-- ⚡ My interests: Sketching; Life Philosophy; Playing sports like Football, Cricket, Table Tennis
+- 📔 My interests: Sketching; Life Philosophy; Playing sports like Football, Cricket, Table Tennis
 
 ### Connect with me:
 
