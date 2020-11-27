@@ -1,6 +1,5 @@
 ### Hi there, I'm Gaurav Sobti 👋
-<br />
-<br />
+I am a Full Stack Developer(5+ years experience) with ​knowledge of design and project management as well.​ Now focusing only mainly on frontend. I have worked in startups of different domains, which has helped me gain hands-on experience ​on a wide range of products​ : e-commerce, social network for dating, digital content platforms, analytics dashboard, project showcase, and admin portal​. I have freelanced and hence have experience managing complete projects. 
 
 ## I'm a Developer, and Teacher!!
 
