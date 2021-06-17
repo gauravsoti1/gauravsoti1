@@ -5,8 +5,8 @@ I am a Full Stack Developer(5+ years experience) with ​knowledge of design and
 
 - 🌱 I’m currently trying to master frontend development especially React
 - 🤝 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Build a better online presence, so that my work speaks for myself. Also, maybe learn to surf a little
-- 📔 My interests: Sketching; Life Philosophy; Playing sports like Football, Cricket, Table Tennis
+- 🥅 2021 Goals: Build a better online presence, so that my work speaks for myself. Deep dive into frontend architecture: RxJS for state management, javascript design patterns, microservices architecture.
+- 📔 My interests: Sketching; Psychology; Playing sports like Football, Cricket, Table Tennis
 
 ### Connect with me:
 
