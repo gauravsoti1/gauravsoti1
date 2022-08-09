@@ -1,5 +1,5 @@
 ### Hi there, I'm Gaurav Sobti 👋
-Frontend Developer (5+ years experience) with good experience in design, backend & android. Contributed to Mesh’s YCombinator and funding success by engineering the frontend of the product (100000 active users) alone. Always focused on output & taking full ownership of my work. Have a past record of quickly shifting to different tech & delivering results: Android, Express, ROR, Magento, Flutter; strong suit being JS, React. Have first-hand experienced successes and failures in companies in domains: e-commerce, social network, digital content platforms, analytics, company registration, human resource.
+Frontend Developer (6+ years experience) with good experience in design, backend & android. Contributed to Mesh’s YCombinator and funding success by engineering the frontend of the product (100000 active users) alone. Always focused on output & taking full ownership of my work. Have a past record of quickly shifting to different tech & delivering results: Android, Express, ROR, Magento, Flutter; strong suit being JS, React. Have first-hand experienced successes and failures in companies in domains: e-commerce, social network, digital content platforms, analytics, company registration, human resource.
 
 
 ## I'm a Developer, and Teacher!!
