@@ -1,6 +1,7 @@
 ### Hi there, I'm Gaurav Sobti 👋
 Senior Fullstack Developer (frontend focused, 7+ years experience, React, Typescript, Node JS, Ruby On Rails, Android) with good experience in design. Contributed to Mesh’s YCombinator and funding success by engineering the frontend of the product (100000 active users) alone. Always focused on output & taking full ownership of my work. Have a past record of quickly shifting to different tech & delivering results: Android, Express, ROR, Magento, Flutter; strong suit being JS, React. Have first-hand experienced successes and failures in companies in domains: e-commerce, social network, digital content platforms, analytics, company registration, human resource.
 
+[Portfolio](https://personal-website-zeta-sooty.vercel.app/)
 
 ## I'm a Developer!!
 
@@ -33,6 +34,7 @@ Senior Fullstack Developer (frontend focused, 7+ years experience, React, Typesc
 <br />
 <br />
 
+[website]: https://personal-website-zeta-sooty.vercel.app/
 [twitter]: https://twitter.com/sobti1234
 [medium]: https://gauravsobti1.medium.com/
 [linkedin]: https://www.linkedin.com/in/gaurav-sobti-75003a97/
